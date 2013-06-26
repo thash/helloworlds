@@ -1,0 +1,1 @@
+class Testconsole.log("hoge")

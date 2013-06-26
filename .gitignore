@@ -1,0 +1,15 @@
+.DS_Store
+
+*.o
+*.so
+*.out
+
+# OCaml
+*.cmo
+*.cmi
+
+# haxe
+*.n
+
+# scala, java
+*.class
